@@ -1,0 +1,20 @@
+div {
+  text-align: center;
+  position: fixed;
+  top: 10%;
+  left: 045%;
+}
+
+button {
+  font-size: 22px;
+  display: inline-flex;
+  padding: 33px;
+  color: red;
+  background-color: pink;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.btn-stop {
+  margin-left: 44px;
+}
